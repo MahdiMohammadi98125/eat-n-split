@@ -4,7 +4,7 @@
 /* eslint-disable react/jsx-key */
 
 import { useState } from "react";
-import "../app.css";
+import "./app.css";
 const initialFriends = [
   {
     id: 118836,
